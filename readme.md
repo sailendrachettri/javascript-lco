@@ -1,5 +1,5 @@
 
-# A blog using MERN stack
+# Master javascript programming language
 
 This javascript course I complected from LCO by Hitesh Sir.
 
