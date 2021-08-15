@@ -7,3 +7,5 @@
 
 // Here we write statements
 // Self-Executing Anonymous Function or IIFE
+
+// https://www.youtube.com/watch?v=oR4BjOJpdkE 

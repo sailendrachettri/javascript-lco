@@ -4,14 +4,16 @@ var followers = document.getElementsByClassName('followers')[0];
 let count = 1;
 
 setInterval(() => {
-    if (count < 1000) {
+    if (count < 100) {
         count++;
         counter.innerText = count;
     }
-}, 1) // this number means milisecons
+}, 50) // this number means milisecons
 
 setTimeout(() => {
-    followers.innerText = "Followers in LinkedIn";
+    followers.innerText = "Completed Javascript course.";
+    counter.innerText = "100 %"
+
 }, 5000)
 
 
