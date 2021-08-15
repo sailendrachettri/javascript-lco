@@ -1,7 +1,7 @@
 
 # A blog using MERN stack
 
-This is a course I complected froI'm learninG LCO by Hitesh Sir.
+This javascript course I complected from LCO by Hitesh Sir.
 
 ## Topics I learned during this course
 
