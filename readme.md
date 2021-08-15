@@ -37,7 +37,6 @@ This javascript course I complected from LCO by Hitesh Sir.
 
 **Project1: Counter**
 ![App Screenshot](https://github.com/sailendrachettri/javascript-lco/blob/main/img/project1.png)
-![App Screenshot]()
 
 **Project2: Color picker**
 ![App Screenshot](https://github.com/sailendrachettri/javascript-lco/blob/main/img/project2.png)
